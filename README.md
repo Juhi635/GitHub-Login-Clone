@@ -1,4 +1,4 @@
-# Simple GitHub Login Page Clone
+# **🔑 Simple GitHub Login Page Clone**
 
 ## Overview
 
@@ -6,21 +6,21 @@ This project features a simple clone of the GitHub login page, recreated using H
 
 ## Live Demo
 
-Explore the live demo of the GitHub login page clone https://git-hub-login-clone.vercel.app/
+Explore the live demo of the GitHub login page clone ➡️ https://git-hub-login-clone.vercel.app/
 
 ## Features
 
-- **Authentic Layout:** The clone closely mimics the layout and design elements of the original GitHub login page.
+- **🔍 Authentic Layout:** The clone closely mimics the layout and design elements of the original GitHub login page.
   
-- **Responsive Design:** Designed to be responsive, the login page adapts its layout dynamically to ensure optimal viewing and interaction across various devices and screen sizes.
+- **📱 Responsive Design:** Designed to be responsive, the login page adapts its layout dynamically to ensure optimal viewing and interaction across various devices and screen sizes.
   
-- **Form Validation:** Basic form validation is implemented to ensure that users provide valid inputs for the username and password fields.
+- **🛡️ Form Validation:** Basic form validation is implemented to ensure that users provide valid inputs for the username and password fields.
 
 ## Usage
 
 To view the GitHub login page clone:
 
-1. Access the live demo https://git-hub-login-clone.vercel.app/
+1. Access the live demo ➡️ https://git-hub-login-clone.vercel.app/
   
 2. Enter a valid username and password (use placeholder values for demo purposes).
 
@@ -30,4 +30,4 @@ The GitHub login page clone is built using HTML for the structure and CSS for st
 
 ## Credits
 
-This project is hosted on https://vercel.com/
+This project is hosted on https://vercel.com/ 🌐
