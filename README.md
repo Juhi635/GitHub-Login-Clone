@@ -31,3 +31,5 @@ The GitHub login page clone is built using HTML for the structure and CSS for st
 ## Credits
 
 This project is hosted on https://vercel.com/ 🌐
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/e1ed44b6-683d-4cb1-aa07-12ddfe28d718">
